@@ -1,4 +1,6 @@
-<a target="_blank" href="https://github.com/Ennoriel/unicode-emoji-search-engine"> Star me on github </a>
+<a target="_blank" href="https://github.com/Ennoriel/unicode-emoji-search-engine">
+	Star me on github
+</a>
 
 <style>
 	a {
